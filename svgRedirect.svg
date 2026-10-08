@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100">
+  <a href="https://avord.com" target="_blank">
+    <rect width="200" height="100" fill="red" />
+    <text x="100" y="55" font-size="20" text-anchor="middle" fill="white" dominant-baseline="middle">Go to Avord</text>
+  </a>
+</svg>
